@@ -35,4 +35,5 @@ repositories {
 
 dependencies {
     compile "com.facebook.react:react-native:+"
+    implementation "com.android.support:support-media-compat:26.+"
 }
